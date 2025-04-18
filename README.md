@@ -24,7 +24,7 @@ The prototype uses the **first 10,000 rows** of provided weblog data for perform
 
 ## 🖼️ Screenshot
 
-![Visitor Insights Tool Screenshot](https://github.com/sulingzi05/egain-visitor-insight/assets/your-screenshot-placeholder)
+![Visitor Insights Tool Screenshot](https://imgur.com/a/4voU5Hg)
 
 ## 🚀 How to Run
 

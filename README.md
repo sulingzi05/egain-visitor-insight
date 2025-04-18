@@ -24,7 +24,7 @@ The prototype uses the **first 10,000 rows** of provided weblog data for perform
 
 ## 🖼️ Screenshot
 
-![Visitor Insights Tool Screenshot]（[![egain-screenshot-upload.jpg](https://i.postimg.cc/8kf7QnW4/egain-screenshot-upload.jpg)](https://postimg.cc/V51fXgK0)）
+![Visitor Insights Tool Screenshot][![egain-screenshot-upload.jpg](https://i.postimg.cc/8kf7QnW4/egain-screenshot-upload.jpg)](https://postimg.cc/V51fXgK0)
 
 ## 🚀 How to Run
 

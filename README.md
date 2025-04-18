@@ -10,6 +10,12 @@ To help sales reps:
 - Search/filter by IP or content type (e.g. product pages, careers, pricing)
 - Uncover intent signals to drive better outreach
 
+## ✨ Project Highlights
+
+- Built a real-time visitor insights tool tailored for sales enablement
+- Enabled search, filtering, and behavior tracking over site log data
+- Delivered a prototype + analysis within 3 days with full documentation
+
 ## 🔍 Features
 
 Built using [Streamlit](https://streamlit.io):
